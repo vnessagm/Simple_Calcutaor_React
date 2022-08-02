@@ -1,2 +1,2 @@
-# Simple_Calcutaor_React
+# Simple_Calculator_React
 Created with CodeSandbox
